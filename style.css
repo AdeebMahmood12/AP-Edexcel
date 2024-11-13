@@ -81,7 +81,7 @@ svg{
         width: 25%;
         height: 50px;
         border-radius: 25px;
-        transition: background-color 10s ease-in-out;
+        transition: background-image 10s ease-in-out;
     }
     #button:hover{
         background-image: linear-gradient(to right, rgb(0, 157, 255), rgb(37, 0, 249));
