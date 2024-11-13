@@ -10,6 +10,13 @@
     text-align: center;
     scroll-behavior: smooth;
 }
+body {
+    min-height: 100%;
+}
+
+html {
+    height: 100%;
+}
 .intro{
     grid-area: intro;
     text-align: left;
@@ -27,6 +34,7 @@
 .introduction{
     background-image: url(map.png);
     background-size: cover;
+    background-position: center;
     padding: 8%;
     padding-top: 2%;
     display: flex;
