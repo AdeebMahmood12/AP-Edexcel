@@ -81,7 +81,7 @@ svg{
         width: 25%;
         height: 50px;
         border-radius: 25px;
-        transition: background-color 200ms ease-in-out;
+        transition: background-color 1s ease-in-out;
         transition-duration: 1s;
     }
     #button:hover{
