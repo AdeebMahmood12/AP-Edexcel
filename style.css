@@ -60,6 +60,7 @@ svg{
 }
 #button:hover{
     background-image: linear-gradient(to right, rgb(0, 157, 255), rgb(37, 0, 249));
+    transition: background-color 0.3s ease-in-out;
 }
 @media screen and (min-width: 1000px){
     .buttons{
