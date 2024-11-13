@@ -10,13 +10,6 @@
     text-align: center;
     scroll-behavior: smooth;
 }
-body{
-    min-height: 100%;
-}
-
-html{
-    height: 100%;
-}
 .intro{
     grid-area: intro;
     text-align: left;
