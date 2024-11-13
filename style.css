@@ -82,9 +82,9 @@ svg{
         height: 50px;
         border-radius: 25px;
         transition: background-color 200ms ease-in-out;
+        transition-duration: 1s;
     }
     #button:hover{
         background-image: linear-gradient(to right, rgb(0, 157, 255), rgb(37, 0, 249));
-        transition-delay: 0.2s;
     }
 }
