@@ -1,3 +1,2 @@
-AP Edexcel: The **largest** Edexcel-focused community on Discord.
-Our server is dedicated to helping students from all backgrounds excel in their IGCSE and IAL studies. With a team of knowledgeable helpers actively supporting you, AP Edexcel is the perfect place to get answers to your questions, find study tips, and connect with like-minded learners. We offer a wealth of resources, including notes, past papers, and revision guides, all designed to aid in improving your understanding and boosting your results. Whether you're looking for academic advice, study partners, or simply a place to stay motivated, AP Edexcel is here to support you every step of the way.
+![AP Edexcel Banner](https://ap-edexcel.vercel.app/banner.png "Banner")
 [Join Now ](https://discord.gg/ap-edexcel-983670206889099264) and take your studies to the next level.
